@@ -1,0 +1,6 @@
+pandas
+numpy
+google
+bigquery
+oauth2client
+gspread

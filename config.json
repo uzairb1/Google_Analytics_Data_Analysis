@@ -1,0 +1,10 @@
+{
+    "Bigquery": {
+        "Project_ID": {
+            "ID":""
+        },
+        "Dataset_ID": {
+            "ID": ""
+        }
+    }
+}
